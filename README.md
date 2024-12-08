@@ -146,7 +146,7 @@ emojiscript/
 ├── emoji_cli.py     # CLI interface
 ├── emoji.py         # Core interpreter
 ├── README.md        # Documentation
-└── examples/        # Example scripts
+└── test_emoji.py    # Unittests
 ```
 
 ### Running Tests
